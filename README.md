@@ -28,5 +28,3 @@ Sou Keverson Garcia, um apaixonado desenvolvedor front-end que transforma concei
 
 Adoro colaborar em projetos empolgantes e aprender com outros desenvolvedores. Se você tem um projeto interessante ou ideia que gostaria de discutir, fique à vontade para entrar em contato comigo. Vamos construir coisas incríveis juntos!
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=keversongarcia&label=Visitantes&countColor=%23263759)
-
