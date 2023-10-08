@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Bem-vindo ao meu perfil! 👋
 
 Sou Keverson Garcia, um apaixonado desenvolvedor front-end que transforma conceitos criativos em experiências digitais incríveis. Minha jornada no mundo do desenvolvimento web começou com a empolgação de criar interfaces atraentes e funcionais, e essa paixão só cresceu desde então.
 
@@ -23,8 +23,3 @@ Sou Keverson Garcia, um apaixonado desenvolvedor front-end que transforma concei
 - 🌐 [Website](https://keversongarcia.vercel.app)
 - 📧 [E-mail](garciakeverson@hotmail.com)
 - 📷 [Instagram](https://www.instagram.com/garciakeverson)
-
-## Vamos colaborar!
-
-Adoro colaborar em projetos empolgantes e aprender com outros desenvolvedores. Se você tem um projeto interessante ou ideia que gostaria de discutir, fique à vontade para entrar em contato comigo. Vamos construir coisas incríveis juntos!
-
