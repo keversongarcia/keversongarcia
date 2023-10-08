@@ -1,8 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-![Your Name](link_para_sua_foto_de_perfil.jpg)
-
-Olá! Sou [Seu Nome], um entusiasta da tecnologia com paixão por codificação, aprendizado de máquina e desenvolvimento de software. Este é o meu cantinho no GitHub, onde compartilho meus projetos, experimentos e contribuições para a comunidade de código aberto.
+Sou Keverson Garcia, um apaixonado desenvolvedor front-end que transforma conceitos criativos em experiências digitais incríveis. Minha jornada no mundo do desenvolvimento web começou com a empolgação de criar interfaces atraentes e funcionais, e essa paixão só cresceu desde então.
 
 ## O que você encontrará aqui
 
@@ -12,22 +10,23 @@ Olá! Sou [Seu Nome], um entusiasta da tecnologia com paixão por codificação,
 
 ## Tecnologias que eu adoro
 
-- Python 🐍
-- JavaScript/Node.js 🌐
-- Machine Learning/IA 🤖
-- Desenvolvimento Web 🌐
-- Ciência de Dados 📊
+- JavaScript/Node.js
+- ReactJS/React Native
+- NextJS (pages & app)
+- Framer Motion
+- ChakraUI
+- TailwindCSS e suas variants
 
 ## Me encontre em outros lugares
 
-- 💼 [LinkedIn](link_para_o_seu_linkedin)
-- 🌐 [Website](link_para_o_seu_site_pessoal)
-- 📧 [E-mail](seu_email@example.com)
-- 🐦 [Twitter](link_para_o_seu_perfil_no_twitter)
+- 💼 [LinkedIn](https://www.linkedin.com/in/keversongarcia)
+- 🌐 [Website](https://keversongarcia.vercel.app)
+- 📧 [E-mail](garciakeverson@hotmail.com)
+- 📷 [Instagram](https://www.instagram.com/garciakeverson)
 
 ## Vamos colaborar!
 
 Adoro colaborar em projetos empolgantes e aprender com outros desenvolvedores. Se você tem um projeto interessante ou ideia que gostaria de discutir, fique à vontade para entrar em contato comigo. Vamos construir coisas incríveis juntos!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=seu_nome.seu_nome)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=keversongarcia)
 
